@@ -1,7 +1,12 @@
 ## Git Branching
 
+
+Overview and cheat sheet of Git commands. Introduction to branching.
+
+
 ###Overview
 Overview and cheat sheet of Git commands. Introduction to branching.
+
 
 
 ### Basic Commands
